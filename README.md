@@ -1,4 +1,9 @@
 # hello-world
-testing
 
-having fun with github today in May
+class A
+{
+  public static void main(String args[])
+  {
+     System.out.println("hello");
+  }   
+}
